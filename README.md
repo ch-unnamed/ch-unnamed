@@ -1,6 +1,6 @@
 ![Developer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxzaXJvbXNnNGk4bTcyM3hhMGduaTg3MXlqZ2k4eHdpa2E4aGs3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iolyr2dobg73XjR7z/giphy.gif)
 
-# ¡Hola! 👋 Soy Pepe Acuña
+# ¡Hola! 👋
 
 Soy desarrollador de software con amplia experiencia en desarrollo web full-stack. Combino tecnologías modernas para crear soluciones robustas y escalables, con especial atención en buenas prácticas y arquitectura limpia.
 
