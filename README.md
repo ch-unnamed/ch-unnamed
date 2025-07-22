@@ -1,4 +1,4 @@
-![Developer GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXI4N2gzdTNvcXV4bDI4c3k2OXJzaTdndzM2bWpvcTRycXBtdW1paCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IdMG2hVBohOuAggLX4/giphy.gif)
+![Developer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxzaXJvbXNnNGk4bTcyM3hhMGduaTg3MXlqZ2k4eHdpa2E4aGs3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iolyr2dobg73XjR7z/giphy.gif)
 
 # ¡Hola! 👋 Soy Pepe Acuña
 
@@ -11,7 +11,7 @@ Soy desarrollador de software con amplia experiencia en desarrollo web full-stac
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
@@ -53,9 +53,3 @@ Me especializo en el desarrollo de aplicaciones web modernas, implementando arqu
 - [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://ar.linkedin.com/in/pepe-nahuel-acu%C3%B1a-485918218?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F))  
 - Email: pepe.n.acuna@gmail.com
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=default)  
-![Actividad general](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default)
