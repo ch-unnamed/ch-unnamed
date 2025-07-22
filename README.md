@@ -51,5 +51,4 @@ Me especializo en el desarrollo de aplicaciones web modernas, implementando arqu
 ## 📫 Contacto
 
 - [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://ar.linkedin.com/in/pepe-nahuel-acu%C3%B1a-485918218?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F))  
-- Email: pepe.n.acuna@gmail.com
 
